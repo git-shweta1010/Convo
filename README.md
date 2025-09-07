@@ -3,7 +3,7 @@
 **Convo** is a **real-time chat and video calling app** that helps people **connect globally and practice languages together**. Users can **chat, make video calls, add friends, and customize the interface with 32 themes**. It’s simple, fast, and secure, designed for real-time interaction globally.  
 
 **Live Demo:** *https://convo-uaeq.onrender.com*  
-**GitHub Repository:** [https://github.com/burakorkmez/streamify-video-calls](https://github.com/burakorkmez/streamify-video-calls)  
+**GitHub Repository:** (https://github.com/burakorkmez/streamify-video-calls)  
 
 ---
 
